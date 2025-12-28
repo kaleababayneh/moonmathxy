@@ -528,7 +528,7 @@ $$
 2x \equiv 1 \pmod{6}
 $$
 
-This has no solutions. No way to think about it is that for something to be 1 in mod 6, it has to be an odd number. The left-hand side of this congruence will always be an even number.
+This has no solutions. One way to think about it is that for something to be 1 in mod 6, it has to be an odd number. The left-hand side of this congruence will always be an even number.
 
 ## Exercise 25
 
